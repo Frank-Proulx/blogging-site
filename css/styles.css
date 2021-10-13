@@ -1,0 +1,13 @@
+.blog-posts {
+  color: blue;
+  font-family: sans-serif;
+  line-height: 20px;
+  font-size: 16px;
+}
+
+.about-me {
+  color: red;
+  font-family: Helvetica;
+  line-height: 25px;
+  font-size: 20px;
+}
